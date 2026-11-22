@@ -1,7 +1,7 @@
 {
-  "versionCode": 105,
-  "versionName": "1.0.5",
-  "apkUrl": "https://github.com/AlleriaLabs/Allerfind-Releases/releases/latest/download/allerfind-v1.0.5.apk",
-  "sha256": "a6ec85273e248bc67d03c7dde28b8e0b0ce203b7e9f991b97f6f8b43a6ffb8d2",
-  "releaseNotes": "Allerfind Android v1.0.5. Includes the verified in-app updater."
+  "versionCode": 106,
+  "versionName": "1.0.6",
+  "apkUrl": "https://github.com/AlleriaLabs/Allerfind-Releases/releases/latest/download/allerfind-v1.0.6.apk",
+  "sha256": "591b5200964fa5c5d2fed9a61318ba115cc5cc2173d1508f95cd9896f4d1c6f1",
+  "releaseNotes": "Allerfind Android v1.0.6. Includes the verified in-app updater."
 }
