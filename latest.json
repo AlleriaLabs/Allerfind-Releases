@@ -2,5 +2,6 @@
   "versionCode": 104,
   "versionName": "1.0.4",
   "apkUrl": "https://github.com/AlleriaLabs/Allerfind-Releases/releases/latest/download/allerfind-v1.0.4.apk",
-  "releaseNotes": "Allerfind Android v1.0.4. Includes the branded in-app updater."
+  "sha256": "51f8569ae3cf4edc67a7d548c1911868be88f6f0c7fbe57ab52ac9bc8c0d6017",
+  "releaseNotes": "Allerfind Android v1.0.4. Includes the verified in-app updater."
 }
