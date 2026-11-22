@@ -1,8 +1,7 @@
-
 {
   "versionCode": 114,
   "versionName": "1.0.14",
   "apkUrl": "https://github.com/AlleriaLabs/Allerfind-Releases/releases/latest/download/allerfind-v1.0.14.apk",
-  "sha256": "43baedce3b1c7dee323c6138d38202133938550cbca49e115e542599f264bd92",
-  "releaseNotes": "During navigation, other NAP pins are temporarily hidden. The destination pin and route remain visible."
+  "sha256": "e7d33ab12e5fdd345b1a3448faff6db8ae609be2e88a7f1e74bcf1a391fc5428",
+  "releaseNotes": "Allerfind Android v1.0.14. Permanent release signing aligned with Allerion and Allervue."
 }
