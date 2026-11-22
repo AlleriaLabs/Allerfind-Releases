@@ -1,7 +1,7 @@
 {
-  "versionCode": 110,
-  "versionName": "1.0.10",
-  "apkUrl": "https://github.com/AlleriaLabs/Allerfind-Releases/releases/latest/download/allerfind-v1.0.10.apk",
-  "sha256": "6ef29dd3ac301b5d81918f94fa186ed2ac68c44af727e9baf3bc0a62050a7ea2",
-  "releaseNotes": "Allerfind Android v1.0.10. Permanent release signing aligned with Allerion and Allervue."
+  "versionCode": 111,
+  "versionName": "1.0.11",
+  "apkUrl": "https://github.com/AlleriaLabs/Allerfind-Releases/releases/latest/download/allerfind-v1.0.11.apk",
+  "sha256": "d556f5a1b9e59f700b8db260eafca1f2e17b52055ed1023465762b9f392108ad",
+  "releaseNotes": "Allerfind Android v1.0.11. Permanent release signing aligned with Allerion and Allervue."
 }
