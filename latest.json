@@ -1,7 +1,7 @@
 {
-  "versionCode": 111,
-  "versionName": "1.0.11",
-  "apkUrl": "https://github.com/AlleriaLabs/Allerfind-Releases/releases/latest/download/allerfind-v1.0.11.apk",
-  "sha256": "d556f5a1b9e59f700b8db260eafca1f2e17b52055ed1023465762b9f392108ad",
-  "releaseNotes": "Navigation route now remains visible when NAP markers refresh."
+  "versionCode": 113,
+  "versionName": "1.0.13",
+  "apkUrl": "https://github.com/AlleriaLabs/Allerfind-Releases/releases/latest/download/allerfind-v1.0.13.apk",
+  "sha256": "d802951e44c010e9eadffb1e4afe6e6b7e4336c54d5f1694fde90ad1b84c2f23",
+  "releaseNotes": "Allerfind Android v1.0.13. Permanent release signing aligned with Allerion and Allervue."
 }
