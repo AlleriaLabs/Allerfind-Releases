@@ -1,7 +1,7 @@
 {
-  "versionCode": 117,
-  "versionName": "1.0.17",
-  "apkUrl": "https://github.com/AlleriaLabs/Allerfind-Releases/releases/latest/download/allerfind-v1.0.17.apk",
-  "sha256": "722c37b241b46de0df8e259824f9e3d945d23c1ae5652c3db0157f61c877d32f",
-  "releaseNotes": "Allerfind Android v1.0.17. Permanent release signing aligned with Allerion and Allervue."
+  "versionCode": 118,
+  "versionName": "1.0.18",
+  "apkUrl": "https://github.com/AlleriaLabs/Allerfind-Releases/releases/download/v1.0.18/allerfind-v1.0.18.apk",
+  "sha256": "3316ffc54a7c05867001a6142676a85449ac2dac556a7af1f7c48e9ca3ebde6c",
+  "releaseNotes": "All approved NAP IDs are searchable, including records with missing or invalid GPS coordinates or incomplete municipality metadata. Invalid GPS coordinates are flagged and will not create map pins or trigger map zoom."
 }
