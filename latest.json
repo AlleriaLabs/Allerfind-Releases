@@ -1,7 +1,7 @@
 {
-  "versionCode": 118,
+  "versionCode": 119,
   "versionName": "1.0.18",
-  "apkUrl": "https://github.com/AlleriaLabs/Allerfind-Releases/releases/download/v1.0.18/allerfind-v1.0.18.apk",
-  "sha256": "3316ffc54a7c05867001a6142676a85449ac2dac556a7af1f7c48e9ca3ebde6c",
-  "releaseNotes": "All approved NAP IDs are searchable, including records with missing or invalid GPS coordinates or incomplete municipality metadata. Invalid GPS coordinates are flagged and will not create map pins or trigger map zoom."
+  "apkUrl": "https://github.com/AlleriaLabs/Allerfind-Releases/releases/latest/download/allerfind-v1.0.19.apk",
+  "sha256": "8a42e2d3652e1de913e184db597619cd3ce21887ae22efc32d97f8c2bee27a02",
+  "releaseNotes": "Live server-side NAP ID search fallback for approved records missing from the device cache. Invalid GPS remains non-navigable."
 }
