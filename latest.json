@@ -1,7 +1,7 @@
 {
-  "versionCode": 119,
+  "versionCode": 118,
   "versionName": "1.0.18",
-  "apkUrl": "https://github.com/AlleriaLabs/Allerfind-Releases/releases/latest/download/allerfind-v1.0.19.apk",
-  "sha256": "8a42e2d3652e1de913e184db597619cd3ce21887ae22efc32d97f8c2bee27a02",
-  "releaseNotes": "Live server-side NAP ID search fallback for approved records missing from the device cache. Invalid GPS remains non-navigable."
+  "apkUrl": "https://github.com/AlleriaLabs/Allerfind-Releases/releases/latest/download/allerfind-v1.0.18.apk",
+  "sha256": "8e2d06b597c287d1df89929be23524dd70889f1e89cbe834ab46dfc9bc1225f2",
+  "releaseNotes": "Allerfind Android v1.0.18. Permanent release signing aligned with Allerion and Allervue."
 }
