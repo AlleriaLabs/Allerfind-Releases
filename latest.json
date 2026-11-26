@@ -1,8 +1,7 @@
-
 {
-  "versionCode": 115,
-  "versionName": "1.0.15",
-  "apkUrl": "https://github.com/AlleriaLabs/Allerfind-Releases/releases/latest/download/allerfind-v1.0.15.apk",
-  "sha256": "cd9920453e652d178a2171c7ad9c5f574e5289b10215b53db2f5dd7d2de0451c",
-  "releaseNotes": "Google account detection has been replaced with manual email sign-in. Enter your authorized email address to access Allerfind."
+  "versionCode": 116,
+  "versionName": "1.0.16",
+  "apkUrl": "https://github.com/AlleriaLabs/Allerfind-Releases/releases/latest/download/allerfind-v1.0.16.apk",
+  "sha256": "b5dc04a0c0f7e0a6233eb9a4385033b6dc47959856727ab037ff00e68787faa5",
+  "releaseNotes": "Allerfind Android v1.0.16. Permanent release signing aligned with Allerion and Allervue."
 }
